@@ -8,7 +8,7 @@ local hwnd = nil
 local invert = 1
 
 local jitter_range             = 6
-local game_fps                 = 144
+local game_fps                 = 300
 local jitter_enable            = false
 
 
