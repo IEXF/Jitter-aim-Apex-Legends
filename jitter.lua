@@ -78,7 +78,7 @@ end
 function script_description()
     return [[
     <div>
-        <h1 style="font-family:Segoe Script; text-align: center">hollow_obs</h1>
+        <h1 style="font-family:Segoe Script; text-align: center">EXF</h1>
         <center><img src=']] .. image .. [['/></center>
     </div>
     <br>
